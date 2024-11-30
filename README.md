@@ -1,2 +1,3 @@
 # Samrat-demo
-This is our first repository
+This is our first Git repository
+Author:Samrat Saha
